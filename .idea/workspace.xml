@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045dfcc1-a73e-4596-a90a-3e4cecad8aec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fanxing/demo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fanxing/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/fanxing/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fanxing/demo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fanxing/demo.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +55,16 @@
       <updated>1585554110299</updated>
       <workItem from="1585554114179" duration="1979000" />
       <workItem from="1585565395559" duration="58000" />
-      <workItem from="1588238488193" duration="420000" />
+      <workItem from="1588238488193" duration="812000" />
     </task>
+    <task id="LOCAL-00001" summary="泛型学习">
+      <created>1588239058041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588239058041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="泛型学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型学习" />
   </component>
 </project>
