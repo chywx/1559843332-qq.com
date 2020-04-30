@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="045dfcc1-a73e-4596-a90a-3e4cecad8aec" name="Default Changelist" comment="" />
+    <list default="true" id="045dfcc1-a73e-4596-a90a-3e4cecad8aec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fanxing/demo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zq67WDyPJiFZyAhtMP9ZjnfDQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,6 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585554110299</updated>
       <workItem from="1585554114179" duration="1979000" />
+      <workItem from="1585565395559" duration="58000" />
+      <workItem from="1588238488193" duration="420000" />
     </task>
     <servers />
   </component>
@@ -52,7 +63,21 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/one/index.js" />
+        <option value="$PROJECT_DIR$/fanxing/demo.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
